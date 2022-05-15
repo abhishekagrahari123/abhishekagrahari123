@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Codeforces Stats
+### My Codeforces Stats
 
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=abhishek_1234&theme=2)
