@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ### My Codeforces Stats
 
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=abhishek_1234&theme=2)
+
+### GitHub Stats 📈
+[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekagrahari123&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekagrahari123&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
