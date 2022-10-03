@@ -1,6 +1,8 @@
 ### Hi, I am Abhishek 👋
 
-![profile count](https://shields-io-visitor-counter.herokuapp.com/badge?page=abhishekagrahari123.abhishekagrahari123&label=Profile%20Views&labelColor=555555&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)&nbsp; [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/abhishekagrahari123?label=followers&style=for-the-badge)](https://github.com/sahil2609)&nbsp;
+<!--- ![profile count](https://shields-io-visitor-counter.herokuapp.com/badge?page=abhishekagrahari123.abhishekagrahari123&label=Profile%20Views&labelColor=555555&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)&nbsp; [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/abhishekagrahari123?label=followers&style=for-the-badge)](https://github.com/sahil2609)&nbsp; -->
+
+
 - I’m undergraduate pursuing B.Tech in Mathematics and Computing at Indian Institute of Technology, Guwahati. 
 - I am mainly interested in competitive programming and web development.
 - Currently preparing for placements.
