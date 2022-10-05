@@ -4,7 +4,7 @@
 
 
 - I’m an undergraduate pursuing B.Tech in Mathematics and Computing at Indian Institute of Technology, Guwahati. 
-- I am mainly interested in competitive programming and web development.
+- I have spent quite some time in competitive programming, web development and machine learning.
 - My hobbies are meditation, playing sports, reading books and playing the flute.
 
 ### 🛠 &nbsp;Tech Stack
