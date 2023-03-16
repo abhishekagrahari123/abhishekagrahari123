@@ -27,3 +27,4 @@ Miscellaneous : ![Latex](	https://img.shields.io/badge/Latex-05122A?style=flat&l
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aagrahari/)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agrahari3832/)
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/aagrahari)
